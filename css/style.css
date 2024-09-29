@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input, button {
+    margin: 10px 0;
+    padding: 10px;
+}
+
+button#get-location {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button#get-location:hover {
+    background-color: darkgreen;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+#latitude, #longitude {
+    margin-left: 20px;
+}
