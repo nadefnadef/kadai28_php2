@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>現在地情報記録アプリ</title>
     <link rel="stylesheet" href="css/style.css">
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDO-oSBQ_9smffiOepTecZJyXlydEsfpgs&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOURKEY&libraries=places"></script>
 </head>
 <body>
     <h1>現在地情報記録アプリ</h1>
